@@ -2,9 +2,11 @@
 
 ## Passos para realizar o desafio
 
-- Faça o checkout do projeto e desenvolva sua aplicação localmente
-- Após finalizar o desenvolvimento, zipe os fontes e mande para nosso RH
-- IMPORTANTE, não faça pull request pro repositorio nem realize fork do projeto assim evita que outros candidatos vejam suas alterações.
+- Crie um projeto em seu github (publico). 
+> ATENÇÃO: Não  faça fork desse projeto
+
+- Faça o checkout e desenvolva sua aplicação localmente.
+- Após finalizar o desenvolvimento, envie todas as alterações para o seu projeto e envie a URL do projeto a pessoa que estará acompanhando seu processo seletivo.
 
 # Descritivo do desafio
 
